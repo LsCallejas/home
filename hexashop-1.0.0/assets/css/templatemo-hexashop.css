@@ -124,6 +124,7 @@ li {
   padding: 0;
   margin: 0;
   list-style: none;
+  border-radius: 0.5rem;
 }
 
 header,
@@ -304,11 +305,12 @@ header
 
 .header-area {
   box-shadow: none;
-  background-color: #009385;
+  background-color: #139b8eab;
   position: absolute;
-  top: 0px;
-  left: 0px;
-  right: 0px;
+  border-radius: 2.5rem;
+  top: 14px;
+  left: 25px;
+  right: 25px;
   z-index: 100;
   height: 100px;
   -webkit-transition: all 0.5s ease 0s;
@@ -380,6 +382,7 @@ header
   line-height: 40px;
   border: transparent;
   letter-spacing: 1px;
+  border-radius: 2rem;
 }
 
 .header-area .main-nav .nav li a {
@@ -439,8 +442,8 @@ header
 .header-area .main-nav .nav li.submenu ul li a {
   opacity: 1;
   display: block;
-  background: #f7f7f7;
-  color: #2a2a2a !important;
+  background: #139b8eab;
+  color: #ffffff !important;
   padding-left: 20px;
   height: 40px;
   line-height: 40px;
@@ -721,7 +724,6 @@ banner
 */
 
 .main-banner {
-  border-bottom: 3px dotted #eee;
   padding-top: 160px;
   padding-bottom: 30px;
 }
@@ -838,7 +840,6 @@ Men
 #men {
   padding-top: 90px;
   padding-bottom: 90px;
-  border-bottom: 3px dotted #eee;
 }
 
 #men .section-heading {
@@ -997,7 +998,6 @@ Women
 #women {
   padding-top: 90px;
   padding-bottom: 90px;
-  border-bottom: 3px dotted #eee;
 }
 
 #women .section-heading {
@@ -1156,7 +1156,6 @@ Kids
 #kids {
   padding-top: 90px;
   padding-bottom: 90px;
-  border-bottom: 3px dotted #eee;
 }
 
 #kids .section-heading {
