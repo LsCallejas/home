@@ -949,6 +949,7 @@ Men
   background-color: transparent;
   line-height: 48px;
   border: 1px solid #2a2a2a;
+  border-radius: 2rem;
 }
 
 #men .owl-nav .owl-prev {
@@ -987,6 +988,7 @@ Men
   background-color: transparent;
   line-height: 48px;
   border: 1px solid #2a2a2a;
+  border-radius: 2rem;
 }
 
 /*
@@ -1107,6 +1109,7 @@ Women
   background-color: transparent;
   line-height: 48px;
   border: 1px solid #2a2a2a;
+  border-radius: 2rem;
 }
 
 #women .owl-nav .owl-prev {
@@ -1145,6 +1148,7 @@ Women
   background-color: transparent;
   line-height: 48px;
   border: 1px solid #2a2a2a;
+  border-radius: 2rem;
 }
 
 /*
@@ -1265,6 +1269,7 @@ Kids
   background-color: transparent;
   line-height: 48px;
   border: 1px solid #2a2a2a;
+  border-radius: 2rem;
 }
 
 #kids .owl-nav .owl-prev {
@@ -1303,6 +1308,7 @@ Kids
   background-color: transparent;
   line-height: 48px;
   border: 1px solid #2a2a2a;
+  border-radius: 2rem;
 }
 
 /*
